@@ -1,0 +1,1 @@
+Adding text for Git Basics lesson in Odin Project. 
